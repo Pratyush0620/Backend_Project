@@ -1,0 +1,3 @@
+# Backend Project Series
+
+- [Model Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFJFd3NlMUU0N2dsbnY2LTZfaTN3LXQwMGFpZ3xBQ3Jtc0tueXFDSHQ4Z3JpZnRlRnV2ZzlZSndtRE1kdXdYUGRpVm9NOG5UNTA5eWZfQUdoU0tHbVc3MGZMQUNSbkExRUZvM3h1WXZqdVZEZ3dfR1lEU24tSGhGQU1PZmdPZHMzVVdfQTVmY0RnUGNXM1ZDQVpkTQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
